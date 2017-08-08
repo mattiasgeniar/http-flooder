@@ -17,6 +17,10 @@ This starts `100000` requests to `http://yoursite.tld`, doing `50` requests at a
 
 Here's what it looks like for [ma.ttias.be](https://ma.ttias.be) (please don't run this against my server.).
 
-```
-<TODO>
-```
+![HTTP flood](https://github.com/mattiasgeniar/http-flooder/raw/master/assets/http-flood.gif)
+
+# Disclosure & liability
+
+This was an experiment. Only launch this against websites or applications you have permissions to. This will stresstest any HTTP(s) server and will likely overwhelm it.
+
+Do not abuse.
